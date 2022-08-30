@@ -1,0 +1,3 @@
+'#!/bin/bash'> alx
+echo "ALX" >>alx
+
